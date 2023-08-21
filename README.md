@@ -19,7 +19,7 @@ Yahoo Finance: We collected opening, high, and closing stock prices for the top 
 Wikipedia: We obtained information about historical tragedies to assess their potential impact on the market.
 https://finance.yahoo.com
 https://en.wikipedia.org/wiki/List_of_disasters_in_the_United_States_by_death_toll
-
+yFINANCE PYTHON package
 #### Methodology
 
 #### Data Collection and Cleaning:
@@ -40,6 +40,8 @@ The limited number of events and types may impact the robustness of our conclusi
 External factors beyond events might influence stock price changes during the observed time span.
 Identifying comprehensive events within the specified time frame posed challenges.
 Conclusion
+
+Looking at a more diverse group of companies, some of the tech companies haven't existed since 2000
 
 This analysis deepened our understanding of how tragic events correlate with stock market performance for top US oil and technology companies. By shedding light on the influence of real-world occurrences on financial markets, our exploration contributes to a richer comprehension of these complex dynamics.
 
